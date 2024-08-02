@@ -101,7 +101,7 @@ GenerateClassCluster=0
 DocumentUniqueId=KWAOIBKF
 
 [Document4]
-DocumentPath=..\..\..\TMC_BLDC_Hardware\Turbo.PcbLib
+DocumentPath=Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -115,7 +115,24 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=AGSBIOOS
+DocumentUniqueId=WBVXQZKP
+
+[Document5]
+DocumentPath=Indicate.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JNAXYQAL
 
 [Configuration1]
 Name=Default Configuration
