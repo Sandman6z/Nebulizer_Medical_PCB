@@ -67,6 +67,23 @@ GenerateClassCluster=0
 DocumentUniqueId=ULBPINHG
 
 [Document2]
+DocumentPath=..\..\..\..\..\Desktop\MVEPP_MainSensor\PCB1.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DVPCWHOH
+
+[Document3]
 DocumentPath=..\..\..\..\..\Desktop\PCB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -83,7 +100,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TEWEQHMO
 
-[Document3]
+[Document4]
 DocumentPath=..\..\..\TMC_BLDC_Hardware\Turbo.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KWAOIBKF
 
-[Document4]
+[Document5]
 DocumentPath=Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WBVXQZKP
 
-[Document5]
+[Document6]
 DocumentPath=Indicate.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JNAXYQAL
 
-[Document6]
+[Document7]
 DocumentPath=Driver.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FSBLTYYF
 
-[Document7]
+[Document8]
 DocumentPath=Nebulizer_medical.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PKJPOUSF
 
-[Document8]
+[Document9]
 DocumentPath=Nebulizer_medical.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
