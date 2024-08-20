@@ -84,57 +84,6 @@ GenerateClassCluster=0
 DocumentUniqueId=ULBPINHG
 
 [Document3]
-DocumentPath=..\..\..\..\..\Desktop\MVEPP_MainSensor\PCB1.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=DVPCWHOH
-
-[Document4]
-DocumentPath=..\..\..\..\..\Desktop\PCB.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=TEWEQHMO
-
-[Document5]
-DocumentPath=..\..\..\TMC_BLDC_Hardware\Turbo.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=KWAOIBKF
-
-[Document6]
 DocumentPath=Indicate.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +100,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JNAXYQAL
 
-[Document7]
+[Document4]
 DocumentPath=Driver.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FSBLTYYF
 
-[Document8]
+[Document5]
 DocumentPath=Nebulizer_medical.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,22 +134,9 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PKJPOUSF
 
-[Document9]
-DocumentPath=Nebulizer_medical.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Atomizer_medical_V1_1_20210610\Design Rule Check - Nebulizer_medical.html
 DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=UXSEWLQX
 
 [Configuration1]
 Name=Default Configuration
