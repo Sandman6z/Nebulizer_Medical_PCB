@@ -84,6 +84,23 @@ GenerateClassCluster=0
 DocumentUniqueId=WBVXQZKP
 
 [Document3]
+DocumentPath=Port.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TYFRMBQB
+
+[Document4]
 DocumentPath=Control.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ULBPINHG
 
-[Document4]
+[Document5]
 DocumentPath=Indicate.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JNAXYQAL
 
-[Document5]
+[Document6]
 DocumentPath=Driver.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FSBLTYYF
 
-[Document6]
+[Document7]
 DocumentPath=Nebulizer_medical.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PKJPOUSF
 
-[Document7]
+[Document8]
 DocumentPath=ArchitectureBlockDiagram.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
