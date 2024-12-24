@@ -186,23 +186,6 @@ GenerateClassCluster=0
 DocumentUniqueId=FUUEONZA
 
 [Document9]
-DocumentPath=Nebulizer_medical.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=UCYNCEOG
-
-[Document10]
 DocumentPath=Nebulizer_medical.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document10]
 DocumentPath=Nebulizer_medical.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -235,23 +218,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
-
-[Document12]
-DocumentPath=Nebulizer_medical1.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=FIPVWUPA
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Atomizer_medical_V1_1_20210610\Design Rule Check - Nebulizer_medical.html
